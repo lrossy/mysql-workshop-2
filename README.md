@@ -1,7 +1,5 @@
 # MySQL Workshop 2 - Basic Data Manipulation
 
-<img src="http://cdn.meme.am/instances2/500x/1988011.jpg" border="0" width="850">
-
 ## Workshop Contents
 
 ### Data Manipulation Statements
@@ -38,7 +36,6 @@ mysql> source <filename>
 ## Workshop Instructions
 
 * Fork this repository
-* Create a new Cloud9 Workspace
 * For every exercise in this Workshop:
   * Create a new file named "exercise-n.txt", containing:
     * The SQL Statement used, when applicable
